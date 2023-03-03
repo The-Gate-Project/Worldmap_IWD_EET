@@ -524,6 +524,7 @@ END
 
 LANGUAGE ~Russian~ ~worldmap_iwd_eet~ ~worldmap_iwd_eet/ru_RU.tra~
 LANGUAGE ~English~ ~worldmap_iwd_eet~ ~worldmap_iwd_eet/en_US.tra~
+LANGUAGE ~French~ ~worldmap_iwd_eet~ ~worldmap_iwd_eet/en_US.tra~ ~worldmap_iwd_eet/fr_FR.tra~
 
 BEGIN ~worldmap_iwd_eet~
 
