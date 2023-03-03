@@ -1,12 +1,10 @@
-# IWD-EET
+# Worldmap_IWD_EET is no longer required for the versions of IWD-EET available on this Github account.
 
 **Autor** : [Tipun](https://github.com/tipun81?tab=repositories)
 
 **Mod Forum** : [Arcanecoast](https://arcanecoast.ru/forum/viewtopic.php?f=31&t=1247)
 
 
-
-# Worldmap_IWD_EET is no longer required for the versions of IWD-EET available on this Github account.
 
 
 
